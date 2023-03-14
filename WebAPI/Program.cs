@@ -26,3 +26,8 @@ namespace WebAPI
                 });
     }
 }
+//bende sifre sormasini bekliyorum dsds oldu mu acaba
+//olmadı hata verdii nedennn
+//remote eklememişiz kii
+//githuba geçer misin birr tamam
+//her ihtimale karşı çalışan projeyi yedekleyelim birr
